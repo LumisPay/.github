@@ -5,6 +5,22 @@
 <!-- [![Image](images/lumispay-logo-dark.png#gh-dark-mode-only)![Image](images/lumispay-logo-light.png#gh-light-mode-only)](https://lumispay.com) -->
 
 <div align="center">
+
+<!-- <style>
+
+  @media (prefers-color-scheme: dark) {
+    .logo-dark {
+      display: none;
+    }
+  }
+
+  @media (prefers-color-scheme: light) {
+    .logo-light {
+      display: none;
+    }
+  }
+</style> -->
+
  <a href="https://lumispay.com">
     <picture>
       <source srcset="images/lumispay-logo-dark.png" media="(prefers-color-scheme: dark)">
@@ -12,7 +28,7 @@
       <img src="images/lumispay-logo-light.png" alt="LumisPay Logo">
     </picture>
   </a>
-  
+
   <br />
 
   <h3 align="center">
